@@ -1,10 +1,10 @@
 # Theo Xavier
 
-**`Estudante de Engenharia de Software | Desenvolvimento Java e Cibersegurança`**
+**`Estudante de Engenharia de Software | Desenvolvimento Back-End Java`**
 
 Me chamo Theo De Melo Xavier, tenho 22 anos e sou natural do Rio de Janeiro. Meu primeiro contato com a área de tecnologia aconteceu durante o curso técnico em Informática pelo Senac Amazonas, experiência que despertou meu interesse por esse universo e influenciou minha escolha profissional. Atualmente, curso Engenharia de Software no CEUB, onde busco construir uma base sólida em desenvolvimento de software e aprofundar meus conhecimentos na área.
 
-Tenho especial interesse em desenvolvimento backend com Java e em cibersegurança, com foco em compreender a arquitetura das aplicações, a lógica por trás dos sistemas e os desafios relacionados à segurança da informação. Meu objetivo é desenvolver habilidades técnicas que me permitam criar soluções eficientes, seguras e bem estruturadas.
+Tenho especial interesse em desenvolvimento backend com Java e curiosidade em cibersegurança, com foco em compreender a arquitetura das aplicações, a lógica por trás dos sistemas e os desafios relacionados à segurança da informação. Meu objetivo é desenvolver habilidades técnicas que me permitam criar soluções eficientes, seguras e bem estruturadas.
 
 Fora da tecnologia, encontro na literatura outra forma de explorar ideias e ampliar perspectivas. Sou movido pela curiosidade, pelo desejo de desvendar o que ainda não conheço e pela busca constante por aprendizado.
 

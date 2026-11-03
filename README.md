@@ -50,16 +50,3 @@ Fora da tecnologia, encontro na literatura outra forma de explorar ideias e ampl
 
 <br/>
 <br/>
-
-### Estatísticas
-
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxaviier&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>

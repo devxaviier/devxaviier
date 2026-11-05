@@ -1,12 +1,12 @@
 # Theo Xavier
 
-**`Estudante de Engenharia de Software | Desenvolvimento Back-End Java`**
+**`Software Engineering Student |  Java Back-End Development`**
 
-Me chamo Theo De Melo Xavier, tenho 22 anos e sou natural do Rio de Janeiro. Meu primeiro contato com a área de tecnologia aconteceu durante o curso técnico em Informática pelo Senac Amazonas, experiência que despertou meu interesse por esse universo e influenciou minha escolha profissional. Atualmente, curso Engenharia de Software no CEUB, onde busco construir uma base sólida em desenvolvimento de software e aprofundar meus conhecimentos na área.
+My name is Theo De Melo Xavier. I'm 22 years old and was born in Rio de Janeiro. My first contact with technology came during my technical course in Computer Science at Senac Amazonas, an experience that sparked my interest in this field and shaped my career choice. I am currently studying Software Engineering at CEUB, where I am building a solid foundation in software development and deepening my knowledge of the field.
 
-Tenho especial interesse em desenvolvimento backend com Java e curiosidade em cibersegurança, com foco em compreender a arquitetura das aplicações, a lógica por trás dos sistemas e os desafios relacionados à segurança da informação. Meu objetivo é desenvolver habilidades técnicas que me permitam criar soluções eficientes, seguras e bem estruturadas.
+I am especially interested in Java back-end development and curious about cybersecurity, with a focus on understanding application architecture, the logic behind systems, and the challenges of information security. My goal is to develop technical skills that allow me to build efficient, secure, and well-structured solutions.
 
-Fora da tecnologia, encontro na literatura outra forma de explorar ideias e ampliar perspectivas. Sou movido pela curiosidade, pelo desejo de desvendar o que ainda não conheço e pela busca constante por aprendizado.
+Outside of technology, I find in literature another way to explore ideas and broaden my perspectives. I am driven by curiosity, by the desire to uncover what I don't yet know, and by a constant pursuit of learning.
 
 ---
 

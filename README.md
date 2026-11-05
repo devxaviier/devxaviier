@@ -1,6 +1,6 @@
 # Theo Xavier
 
-**`Software Engineering Student |  Java Back-End Development`**
+**`Software Engineering Student | Java Back-End Development`**
 
 My name is Theo De Melo Xavier. I'm 22 years old and was born in Rio de Janeiro. My first contact with technology came during my technical course in Computer Science at Senac Amazonas, an experience that sparked my interest in this field and shaped my career choice. I am currently studying Software Engineering at CEUB, where I am building a solid foundation in software development and deepening my knowledge of the field.
 

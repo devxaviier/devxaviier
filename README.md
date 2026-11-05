@@ -10,7 +10,7 @@ Outside of technology, I find in literature another way to explore ideas and bro
 
 ---
 
-### Linguagens e Tecnologias
+### Languages and Technologies
 
 <img 
     align="left" 
